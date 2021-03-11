@@ -124,7 +124,8 @@ Students' individual grades will be corrected upwards or downwards, depending on
 
 ## Enrollment and Obtaining Course Credits
 
-- The course (3 ECTS) will be taught in the Marketing Analytics Program at Tilburg University (please check Osiris for the specifics). The course code is 328059-M-3.
+- The course (6 ECTS) will be taught in the Marketing Analytics Program at Tilburg University (please check Osiris for the specifics). The course code is 328059-M-3.
+- The course oDCM (6 ECTS) will also be taught in the Marketing Analytics Program at Tilburg University (please check Osiris for the specifics).
 - Interested Research Master or PhD students who seek to advance their data collection skills are encouraged to apply for a seat.
   - Students from Tilburg University can enroll in this course upon the approval of [the instructor](mailto:h.datta@tilburguniversity.edu) and their coordinator (please notify the course coordinator by 15 December 2020).
   - Students outside of Tilburg University are invited to audit this course. For admission, please [email](mailto:h.datta@tilburguniversity.edu) a brief research statement and motivation of why you want to join this class, and your CV by 15 December 2020. Eligible candidates will be notified via email by 22 December 2021.
